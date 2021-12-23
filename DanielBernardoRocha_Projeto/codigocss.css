@@ -3,7 +3,7 @@ body {
 
   width: 70%;
   margin: auto;
-  background-color: rgb(51, 29, 29);
+  background-color: rgb(39, 12, 53);
   font-family: "sans-serif";
   line-height: 2.0;
   color: rgb(250, 250, 250);
@@ -12,7 +12,7 @@ body {
 }
 
 a{
- padding: 90px;
+ padding: 80px;
 }
 
 .LogoTopo {
@@ -31,36 +31,6 @@ a{
   
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 main {
   background: black;
 }
@@ -69,4 +39,3 @@ fieldset {
   border: 0;
 }
 
-.menu;
